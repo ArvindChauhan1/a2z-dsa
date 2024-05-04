@@ -6,7 +6,7 @@ void printPrimeFactors(int n)
 {
     cout << "prime factors ";
 
-    for (int i = 2; n > 1; i++)
+    for (int i = 2; i * i < n, n > 1; i++)
     {
         if (n % i == 0)
         {
