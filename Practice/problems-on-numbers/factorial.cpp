@@ -2,12 +2,14 @@
 
 using namespace std;
 
+#define M 1000000007
+
 int iterativeFactorial(int n)
 {
     long long fact = 1;
     while (n > 0)
     {
-        fact *= n;
+        fact = (fact * n) % M;
         n--;
     }
 
@@ -19,7 +21,7 @@ int recursiveFactorial(int n)
     if (n == 1)
         return 1;
 
-    return n * recursiveFactorial(n - 1);
+    return (n * recursiveFactorial(n - 1)) % M;
 }
 
 int main()
