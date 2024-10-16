@@ -34,3 +34,6 @@
 *.out
 *.app
 .vscode
+
+#ignore java class
+*.class
