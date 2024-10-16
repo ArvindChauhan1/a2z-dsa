@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q7_RearrangeArrayElementsbySign {
+public class Q07_RearrangeArrayElementsbySign {
 
     // 1. pos and neg array then merge space com
 

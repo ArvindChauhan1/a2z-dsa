@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2_SortColors {
+public class Q02_SortColors {
 
     // 1. using sort function
     // 2. count 1,2 & 3 then populate using loop

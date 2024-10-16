@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q4_MaximumSubarray {
+public class Q04_MaximumSubarray {
 
     // 1. Bruteforce usin two loops
     // 2. using two loops

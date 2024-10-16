@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Q1_2SumProblem {
+public class Q01_2SumProblem {
 
         // 1.Bruteforce (two loops)
         // 3. two pointer approach (not for leetcode)

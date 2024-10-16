@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q6_BestTimetoBuyandSellStock {
+public class Q06_BestTimetoBuyandSellStock {
 
     // 1. using two loops(bruteforce)
     // 2. find min and calculate max

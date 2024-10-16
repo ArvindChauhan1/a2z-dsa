@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Q9_ArrayLeaders {
+public class Q09_ArrayLeaders {
 
     static ArrayList<Integer> leaders(int n, int arr[]) {
         // Your code here

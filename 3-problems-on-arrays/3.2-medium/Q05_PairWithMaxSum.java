@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Q5_PairWithMaxSum {
+public class Q05_PairWithMaxSum {
 
     static int pairWithMaxSum(List<Integer> arr) {
         // Your code goes here

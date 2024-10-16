@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q3_MajorityElement {
+public class Q03_MajorityElement {
 
     // 1. bruteforce using two loops
     // 2. using hashmap
