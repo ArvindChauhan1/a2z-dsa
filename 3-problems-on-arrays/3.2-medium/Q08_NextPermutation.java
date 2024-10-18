@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q08_NextPermutation {
+public class Q8_NextPermutation {
 
     static void printArray(int[] nums) {
         for (int i : nums) {
